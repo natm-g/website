@@ -1,0 +1,57 @@
+html {
+  background-color: aqua;
+}
+
+h1 {
+  text-align: center;
+  display: block;
+  font-size: 32pt;
+}
+article {
+  text-align: center;
+  margin-left: 148px;
+  margin-right: 148px;
+  margin-bottom: 10px;
+  padding: 11;
+  background-color: gold;
+}
+
+nav ul {
+  padding-left: 0;
+}
+
+li {
+  display: inline;
+}
+
+nav li {
+  display: inline-block;
+}
+
+h2 {
+  text-decoration: bold;
+  text-align: center;
+  display: block;
+  font-size: 18pt;
+}
+img {
+  width: 179px;
+  height: auto;
+}
+
+main {
+  width: 750;
+  margin: inherit;
+  overflow: hidden;
+}
+
+figure {
+  float: left;
+  display: inline-block;
+  width: 250px;
+}
+
+section {
+  display: inline-bock;
+  overflow: hidden;
+}
